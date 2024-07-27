@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=YehorKovalov07)
 
 <!---
 YehorKovalov07/YehorKovalov07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
