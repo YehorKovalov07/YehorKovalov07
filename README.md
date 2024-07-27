@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YehorKovalov07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Yehor
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
