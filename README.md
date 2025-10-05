@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Yehor
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+# 💫 About Me:
+👋 Hi, I’m Yehor<br>👀 I’m interested in coding<br>🌱 I’m currently learning Python
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehorKovalov07)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=YehorKovalov07)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YehorKovalov07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YehorKovalov07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YehorKovalov07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---
-YehorKovalov07/YehorKovalov07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
